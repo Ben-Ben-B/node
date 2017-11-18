@@ -1,0 +1,26 @@
+{
+  "name": "nongyao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "art-template": "^4.12.1",
+    "bootstrap": "^3.3.7",
+    "cookie": "^0.3.1",
+    "express": "^4.16.2",
+    "express-art-template": "^1.0.0",
+    "express-session": "^1.15.6",
+    "formidable": "^1.1.1",
+    "jquery": "^3.2.1",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
